@@ -20,4 +20,4 @@ I'm a Data Analyst Enthusiast.
 
 
 ## Projects
-[](https://github.com/Mary-Ukoh/Maji-Ndogo-Water-Analysis/tree/main)
+[Maji](https://github.com/Mary-Ukoh/Maji-Ndogo-Water-Analysis/tree/main)
